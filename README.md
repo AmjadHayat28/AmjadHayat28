@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmjadHayat28
+- 👋 Hi, I’m AmjadHayat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Dev-Ops
